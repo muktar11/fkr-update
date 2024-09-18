@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a169578c.css",
+    "main.js": "/static/js/main.45649570.js",
+    "static/media/fker.jfif": "/static/media/fker.c36920f11dc3451ce03e.jfif",
+    "index.html": "/index.html",
+    "main.a169578c.css.map": "/static/css/main.a169578c.css.map",
+    "main.45649570.js.map": "/static/js/main.45649570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a169578c.css",
+    "static/js/main.45649570.js"
+  ]
+}
